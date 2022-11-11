@@ -1,5 +1,5 @@
 # ThreeJS-WebGL-Stuff
-Attempting to develop skills geared towards building my personal portfolio website and, possibly, other Three.Js/WebGL projects
+Attempting to develop skills geared towards building my personal portfolio website and, possibly, other Three.JS/WebGL projects
 
 Basically, I'm trying to hop on that sexy 3D programming train. 🚂🚂🚄🚄🚅🚅
 
