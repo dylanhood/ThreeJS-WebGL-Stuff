@@ -3,7 +3,7 @@ Attempting to develop skills geared towards building my personal portfolio websi
 
 Basically, I'm trying to hop on that sexy 3D programming train. 🚂🚂🚄🚄🚅🚅
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/k6VW5GNEiAdGa31jPz/giphy.gif">
+<img align="center" alt="Coding" width="400" src="https://i.giphy.com/media/k6VW5GNEiAdGa31jPz/giphy.gif">
 
 ![Threejs-Journey-Threejs-journey-The-ultimate-Three js-course-by-Bruno-Simon](https://user-images.githubusercontent.com/66035537/201234058-bad9b87a-f4f2-4be2-a759-3aec39a2ca30.png)
 
