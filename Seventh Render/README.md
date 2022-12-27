@@ -7,8 +7,6 @@ Should maybe look something like this
 https://spiralgalaxyspiral.vercel.app/
 ```
 
-<b>Maybe avoid implementing this as updating the whole attribute on each frame may be bad for perfomances.</b>
-
 Some Steps:
 
 ``` bash
