@@ -3,9 +3,9 @@ Attempting to develop skills geared towards building my personal portfolio websi
 
 Basically, I'm trying to hop on that sexy 3D programming train. 🚂🚂🚄🚄🚅🚅
 <br></br>
-<b> Note: Links to an example website to show the renders may start to appear after the Third render.</b>
+<b> Note: Links to an example website to show the renders may start to appear after the Third Render.</b>
 <br></br>
-Also, if you see spaghetti code (which might be for most and/or all of the renders) just ignore it (I might start to fix it after the Eighth render).
+Also, if you see spaghetti code (which might be for most and/or all of the renders) just ignore it (I might start to fix it after the Ninth Render).
 
 <img align="center" alt="Coding" width="800" src="https://i.giphy.com/media/k6VW5GNEiAdGa31jPz/giphy.gif">
 
